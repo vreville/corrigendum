@@ -1,8 +1,3 @@
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
-
 # Corrigendum
 
 List all small errors, typos and corrections for V. Réville published papers.
@@ -16,7 +11,7 @@ List all small errors, typos and corrections for V. Réville published papers.
 1) Réville et al. 2015, The Effect of Magnetic Topology on Thermally Driven Wind: Toward a General Formulation of the Braking Law
 
 - The values of the parameter Upsilon open shown in the paper lack a normalization factor $1/(4\pi)$
-- Consequently the fitted parameter $K_3$ should be changed from 1.4 to $0.65 = 1.4 (1/4\pi)^(0.31)$
+- Consequently the fitted parameter $K_3$ should be changed from $1.4$ to $0.65 = 1.4 (1/4\pi)^{0.31}$
 - Subsequent papers have integrated the modification
 - Minus sign of equation 15 should be removed
 - In the legend of Figure 9: $\Phi_{open}$ should be replaced by $v_A / v_{esc}$
@@ -66,4 +61,4 @@ List all small errors, typos and corrections for V. Réville published papers.
 
 12) Réville et al. 2024, Magnetized Winds of M-type Stars and Star–Planet Magnetic Interactions: Uncertainties and Modeling Strategy
 
-- There is a typo in the reflection coefficient expression: $R^\pm = | V_{A,r} \nabla_r \ln \sqrt(\rho)| \times MAX()$ (the root goes inside the log)
+- There is a typo in the reflection coefficient expression: $\mathcal{R}^\pm = | V_{A,r} \nabla_r \ln \sqrt(\rho)| \times MAX()$ (the root goes inside the log)
