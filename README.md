@@ -61,4 +61,4 @@ List all (detected) small errors, typos and their corrections for V. Réville pu
 
 12) Réville et al. 2024, Magnetized Winds of M-type Stars and Star–Planet Magnetic Interactions: Uncertainties and Modeling Strategy
 
-- There is a typo in the reflection coefficient expression: $\mathcal{R}^\pm = | V_{A,r} \nabla_r \ln \sqrt(\rho)| \times MAX()$ (the root goes inside the log)
+- There is a typo in the reflection coefficient expression: $\mathcal{R}^\pm = | V_{A,r} \nabla_r \ln \sqrt{\rho}| \times MAX()$ (the root goes inside the log)
