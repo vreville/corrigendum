@@ -1,6 +1,6 @@
 # Corrigendum
 
-List all small errors, typos and corrections for V. Réville published papers.
+List all (detected) small errors, typos and their corrections for V. Réville published papers.
 
 ## Contributors:
 
