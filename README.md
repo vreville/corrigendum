@@ -57,7 +57,7 @@ List all (detected) small errors, typos and their corrections for V. Réville pu
 
 11) Réville et al. 2023, HelioCast: heliospheric forecasting based on white-light observations of the solar corona.
 
-- Figure 6. The Vr plot is made with vf=700 in equation (6) (it should be 750 km/s).
+- Figure 6. The $V_r$ plot is made with $v_f$=700 km/s in equation (6) (it should be 750 km/s).
 
 12) Réville et al. 2024, Magnetized Winds of M-type Stars and Star–Planet Magnetic Interactions: Uncertainties and Modeling Strategy
 
