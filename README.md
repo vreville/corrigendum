@@ -63,6 +63,6 @@ List all (detected) small errors, typos and their corrections for V. Réville pu
 
 - There is a typo in the reflection coefficient expression: $\mathcal{R}^\pm = | V_{A,r} \nabla_r \ln \sqrt{\rho}| \times MAX()$ (the root goes inside the log)
 
-13) Common typo to Réville et al. 2020, ApJS, Réville et al. 2024, Parenti et al. 2022, Perri et al. 2024
+13) Common typo to Réville et al. 2020, ApJS, Réville et al. 2024, Hazra et al. 2021, Parenti et al. 2022, Perri et al. 2024
 
 - Elsässer variables are defined $z^\pm = \delta \mathbf{v} \mp \delta \mathbf{b}/\sqrt{4 \pi \rho}$ (no sign($B_r$) required).
